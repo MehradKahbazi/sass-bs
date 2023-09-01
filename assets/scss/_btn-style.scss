@@ -1,0 +1,7 @@
+.purple-btn{
+    @include btn-style($color-purple);
+}
+
+.green-btn{
+    @include btn-style($color-green);
+}
